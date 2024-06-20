@@ -4,7 +4,7 @@
 **Roll No.:** B20CI050  
 **Course:** B.Tech  
 **Phone:** +91-7895235153  
-**Email:** [abbas@example.com](mailto:abbas@example.com)  
+**Email:** [yahu364@gmail.com](mailto:yahu364@gmail.com)  
 **Email 2:** [abbas.1@iitj.in](mailto:abbas.1@iitj.in)  
 **GitHub:** [yawerabbas](https://github.com/yawerabbas)  
 **LinkedIn:** [yawer-abbas-629260209](https://www.linkedin.com/in/yawer-abbas-629260209/)  
